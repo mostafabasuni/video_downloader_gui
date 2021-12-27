@@ -27,7 +27,7 @@ class MainApp(QMainWindow, Form_Class):
         self.handel_button()
 
     def handel_Ui(self):
-        self.setWindowTitle('Py Downloader')
+        self.setWindowTitle('Mostafa Downloader')
         self.setFixedSize(750,290)
 
 
